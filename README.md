@@ -6,7 +6,7 @@ AutoGenerator的更多参数可以参考[MybatisPlus官方文档](https://mp.baomidou.com/con
 
 ## How to use
 ```
-1. 修改MpGenerator.java，application.yml，mybatis-plus.properties中标注的数据库地址和项目绝对路径
+1. 修改MpGenerator.java，application.yml，mybatis-plus.properties中标注的数据库地址、表名和项目绝对路径
 
 2. 运行MpGenerator.java
 
